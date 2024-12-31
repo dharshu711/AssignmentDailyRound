@@ -1,0 +1,9 @@
+CPU Usage: 45.3%
+Memory Usage: 60.2%
+Disk Usage: 45%
+Top Processes:
+1234 1 /usr/bin/python3 1.2 25.0
+5678 1 /usr/bin/java 2.5 20.0
+9101 1 /usr/bin/code 1.5 15.0
+1121 1 /usr/bin/chrome 3.0 10.0
+3141 1 /usr/bin/edge 2.0 5.0
